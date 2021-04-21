@@ -1,0 +1,8 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName = "惠众宝";
+NSCameraUsageDescription = "应用需要使用拍照功能来扫描二维码";
+NSLocationWhenInUseUsageDescription = "应用需要查询您位置附件的支持的门店信息";
+NSPhotoLibraryUsageDescription = "应用需要读取您保存的参加活动的截图或设置个人头像";
+NSPhotoLibraryAddUsageDescription = "应用需要保存参加活动的截图及拍摄的照片";
+NSLocationAlwaysUsageDescription = "应用需要查询您位置附件的支持的门店信息";
+NSLocationAlwaysAndWhenInUseUsageDescription = "应用需要查询您位置附件的支持的门店信息";

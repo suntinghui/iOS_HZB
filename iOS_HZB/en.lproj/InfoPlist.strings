@@ -1,0 +1,8 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName = "HuiZhong";
+NSCameraUsageDescription = "the application needs to use the photographing function to scan the QR code";
+NSLocationWhenInUseUsageDescription = "the app needs to query the store information supported by your location attachment";
+NSPhotoLibraryUsageDescription = "the app needs to read the screenshot of the activity you saved or set up your personal portrait";
+NSPhotoLibraryAddUsageDescription = "the app needs to save the screenshots and photos taken during the activities";
+NSLocationAlwaysUsageDescription = "the app needs to query the store information supported by your location attachment";
+NSLocationAlwaysAndWhenInUseUsageDescription = "the app needs to query the store information supported by your location attachment";
